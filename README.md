@@ -1,4 +1,4 @@
-### Hi, I'm Andrian 👋
+### Hi, I'm Andrian 
 
 Dedicated and hardworking React developer seeking for job opportunities.
 
