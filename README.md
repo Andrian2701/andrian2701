@@ -1,6 +1,6 @@
 ### Hi, I'm Andrian 👋
 
-Dedicated and hardworking React developer looking for job opportunities.
+Dedicated and hardworking software engineer specializing in frontend development.
 
 #### Reach me out
 ![Static Badge](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&labelColor=0a66c2&color=0a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrian-smetaniuk-303239277%2F)
