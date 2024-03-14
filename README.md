@@ -1,4 +1,4 @@
-### Hi, I'm Andrian 
+### Hi, I'm Andrian :wave:
 
 Dedicated and hardworking software engineer specializing in frontend development.
 
