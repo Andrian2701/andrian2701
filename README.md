@@ -15,6 +15,9 @@ My experience with React and its ecosystem allows me to create seamless and dyna
   </a>
 </div>
 
+#### Resume/CV:
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1Fg6F_Q8PSV3VqaDlbznXBLs8huBL8BLL/view)
+
 #### Stats:
   
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrian2701&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
