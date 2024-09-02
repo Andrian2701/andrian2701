@@ -16,7 +16,7 @@ My experience with React and its ecosystem allows me to create seamless and dyna
 </div>
 
 #### Resume/CV:
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1Fg6F_Q8PSV3VqaDlbznXBLs8huBL8BLL/view)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1Fg6F_Q8PSV3VqaDlbznXBLs8huBL8BLL/view?usp=sharing)
 
 #### Stats:
   
