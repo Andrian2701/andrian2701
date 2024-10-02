@@ -1,6 +1,6 @@
 ### Hi, I'm Andrian :wave:
 
-My experience with React and its ecosystem allows me to create seamless and dynamic user interfaces. I am passionate about front-end development and continuously strive to enhance my skills and stay updated with the latest industry trends.
+Skilled and dedicated software engineer specializing in frontend development. 
 
 #### Contacts:
 
