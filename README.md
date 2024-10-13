@@ -1,6 +1,6 @@
-### Hi, I'm Andrian :wave:
+### Hi, I'm Andrian:
 
-Skilled and dedicated software engineer specializing in frontend development. 
+Skilled and dedicated software engineer specializing in frontend development. I possess a professional attitude and a strong desire to learn and grow in my career.
 
 #### Contacts:
 
@@ -13,12 +13,8 @@ Skilled and dedicated software engineer specializing in frontend development.
 #### Technologies:
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,next,materialui,html,css,scss,git,firebase" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,next,materialui,html,css,scss,git,github,firebase" />
   </a>
 </div>
-
-#### Stats:
-  
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrian2701&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 
