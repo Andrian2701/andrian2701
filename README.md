@@ -13,7 +13,7 @@ Skilled and dedicated software engineer specializing in frontend development. I 
 #### Technologies:
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,next,materialui,html,css,scss,git,github,firebase" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,next,materialui,html,css,scss,git,firebase" />
   </a>
 </div>
 
