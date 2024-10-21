@@ -1,6 +1,6 @@
 ### Hi, I'm Andrian:
 
-Skilled and dedicated software engineer specializing in frontend development. I possess a professional attitude and a strong desire to learn and grow in my career.
+Skilled and dedicated software engineer specializing in frontend development. Also I bring a professional attitude and a strong commitment to growth in my career.
 
 #### Contacts:
 
